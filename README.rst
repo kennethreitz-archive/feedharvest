@@ -3,6 +3,7 @@ Feed Harvest
 
 Open-source Google Reader replacement. API is the focus.
 
+Will be a hosted, hopefully free, service.
 
 Powered By
 ----------
