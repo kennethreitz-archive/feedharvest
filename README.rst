@@ -19,6 +19,8 @@ Powered By
 Features
 --------
 
+- RESTful API
+- Perhaps a replicated version of the Google Reader API?
 - Import from Google Reader
 - OAuth2 + XAuth + BasicAuth (over HTTPS)
 
