@@ -12,7 +12,9 @@ Powered By
 
 - Flask
 - Requests
+- SQLAlchemy
 - Gevent
+- Celery
 - Heroku
 
 
