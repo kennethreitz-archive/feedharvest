@@ -9,12 +9,14 @@ Powered By
 
 - Flask
 - Requests
+- Gevent
+- Heroku
 
 
 Features
 --------
 
-- Import from GR
+- Import from Google Reader
 - OAuth2 + XAuth + BasicAuth
 
 
