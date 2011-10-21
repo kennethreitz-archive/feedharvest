@@ -14,7 +14,7 @@ Powered By
 - Requests
 - SQLAlchemy
 - Gevent
-- Celery
+- Celery + Redis
 - Heroku
 
 
