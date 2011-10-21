@@ -9,7 +9,6 @@ Powered By
 
 - Flask
 - Requests
-- Readability API?
 
 
 Features
@@ -17,5 +16,5 @@ Features
 
 - Import from GR
 - OAuth2 + XAuth + BasicAuth
-- Readability Support
+
 
