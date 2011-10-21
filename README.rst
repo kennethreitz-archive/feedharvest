@@ -1,6 +1,8 @@
 Feed Harvest
 ============
 
+**Note:** Name pending. In conception phase.
+
 Open-source Google Reader replacement. API is the focus.
 
 Will be a hosted, hopefully free, service.
