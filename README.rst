@@ -17,6 +17,6 @@ Features
 --------
 
 - Import from Google Reader
-- OAuth2 + XAuth + BasicAuth
+- OAuth2 + XAuth + BasicAuth (over HTTPS)
 
 
